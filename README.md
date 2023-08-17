@@ -16,10 +16,11 @@
 | Exploratory Data Analysis | ⌛ ongoing | Data Understanding, Statistical Testing|
 | RFM Analysis | ✔️ Done | RFM Segmentation Matrix, RFM Distribution |
 | Cohort Retention Analysis | ✔️ Done | Customer`s Retention heatmap |
-| Customer Segmentation | ⌛ ongoing | Segment`s definition, Insights into behaviors |
 | Time Series Analysis | ⌛ ongoing | Trends in Transaction Date, Seasonality and Cyclic Patterns|
 | Geospatial Analysis | ⌛ ongoing | Geographic Distribution of Sales/Customers|
+| Customer Segmentation | ⌛ ongoing | Segment`s definition, Insights into behaviors |
 | Dashboard | ⌛ ongoing | The interactive web-app|
+| Predcit high value customers | ⌛ ongoing | LogisticRegression, RandomForest|
 | Findings and Recommendations | ⌛ ongoing | Summary of Analysis |
 
 ## Project gallery:
