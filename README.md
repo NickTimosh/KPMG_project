@@ -4,9 +4,9 @@
 
 ## Project Outcomes:
 
-📑 [Project Report](https://github.com/NickTimosh/KPMG_project/blob/main/230805_Project_Report_rev1.pdf) -> best to start with! Reflects the whole data analysis process and corresponding insights with charts and tables.
+📑 [Project Report](https://github.com/NickTimosh/KPMG_project/blob/main/230805_Project_Report_rev1.pdf) -> Reflects the whole data analysis process and corresponding insights with charts and tables.
 
-💻 [Project Notebook](https://github.com/NickTimosh/KPMG_project/blob/main/kpmg_data.ipynb) -> you are more than welcomed to explore code and visuals. 
+💻 [Project Notebook](https://github.com/NickTimosh/KPMG_project/blob/main/kpmg_data.ipynb) -> You are more than welcomed to explore code and visuals. 
 
 ## Project progress:
 
