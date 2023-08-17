@@ -12,15 +12,15 @@
 
 | Section | Status | Comments |
 | -------- | -------- | -------- |
-| Data Quality Assessment | ✔️ Done | Data Profiling, DQ dimensions, Data Assessment Matrix, Recommendations|
-| Exploratory Data Analysis | ⌛ ongoing | Data Understanding, Data Visualization, Statistical Testing|
-| RFM Analysis | ✔️ Done | RFM Segmentation Matrix, RFM Distribution, Recommendations|
+| Data Quality Assessment | ✔️ Done | Data Profiling, DQ dimensions, Data Assessment Matrix |
+| Exploratory Data Analysis | ⌛ ongoing | Data Understanding, Statistical Testing|
+| RFM Analysis | ✔️ Done | RFM Segmentation Matrix, RFM Distribution |
 | Cohort Retention Analysis | ✔️ Done | Customer`s Retention heatmap |
-| Customer Segmentation | ⌛ ongoing | Segment`s definition, Insights into behaviors, preferences, and characteristics|
+| Customer Segmentation | ⌛ ongoing | Segment`s definition, Insights into behaviors |
 | Time Series Analysis | ⌛ ongoing | Trends in Transaction Date, Seasonality and Cyclic Patterns|
 | Geospatial Analysis | ⌛ ongoing | Geographic Distribution of Sales/Customers|
-| Dashboard | ⌛ ongoing | The interactive web-app for data visualization and storytelling|
-| Findings and Recommendations | ⌛ ongoing | Summary of Analysis, Marketing Strategy optimization, Future Steps |
+| Dashboard | ⌛ ongoing | The interactive web-app|
+| Findings and Recommendations | ⌛ ongoing | Summary of Analysis |
 
 ## Project gallery:
 
