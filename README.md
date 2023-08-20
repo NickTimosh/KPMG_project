@@ -31,6 +31,9 @@ EDA with PygWalker (Tableau-style UI in Python):
 Comparing Test and Training sets with SweetViz (fully self-contained HTML application):
 ![sweetviz](https://github.com/NickTimosh/KPMG_project/assets/116592259/1ee78539-8ba7-48dd-9967-88e022b01661)
 
+Purchase Frequency 
+![Screenshot 2023-08-20 181100](https://github.com/NickTimosh/KPMG_project/assets/116592259/f174ff01-3219-4d60-80d0-60896dddfb3e)
+
 RFM and Cohort Analysis with seaborn heatmaps:
 ![fen](https://github.com/NickTimosh/KPMG_project/assets/116592259/4e7f1d0c-d59e-4ced-aaff-4ad4615bbb6c)
 
