@@ -29,6 +29,9 @@ EDA with PygWalker (Tableau-style UI in Python):
 Comparing Test and Training sets with SweetViz (fully self-contained HTML application):
 ![sweetviz](https://github.com/NickTimosh/KPMG_project/assets/116592259/1ee78539-8ba7-48dd-9967-88e022b01661)
 
+Product performance: Popularity vs Profit
+![product performance](https://github.com/NickTimosh/KPMG_project/assets/116592259/9b7ee14a-5104-4234-a401-8fd5742c0679)
+
 Purchase Frequency 
 ![Screenshot 2023-08-20 181100](https://github.com/NickTimosh/KPMG_project/assets/116592259/f174ff01-3219-4d60-80d0-60896dddfb3e)
 
