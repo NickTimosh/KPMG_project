@@ -33,7 +33,7 @@ Product performance: Popularity vs Profit
 ![product performance](https://github.com/NickTimosh/KPMG_project/assets/116592259/9b7ee14a-5104-4234-a401-8fd5742c0679)
 
 Purchase Frequency 
-![Screenshot 2023-08-20 181100](https://github.com/NickTimosh/KPMG_project/assets/116592259/f174ff01-3219-4d60-80d0-60896dddfb3e)
+![Transactions Frequency](https://github.com/NickTimosh/KPMG_project/assets/116592259/106307dd-aecf-45b4-813d-1ca21b38fc34)
 
 RFM and Cohort Analysis with seaborn heatmaps:
 ![fen](https://github.com/NickTimosh/KPMG_project/assets/116592259/4e7f1d0c-d59e-4ced-aaff-4ad4615bbb6c)
