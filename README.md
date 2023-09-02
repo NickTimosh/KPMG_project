@@ -2,6 +2,8 @@
 
 ✨ Welcome! This project is ongoing as I add more and more steps towards data-driven insights. This also presents an excellent chance to explore novel and intriguing Python libraries. Stay tuned for updates and enhancements! For any inquiries or collaboration opportunities, feel free to reach out. Enjoy exploring the project!
 
+![kpmg_logo](https://github.com/NickTimosh/KPMG_project/assets/116592259/75e435b1-2dbe-47f6-9c01-cb02f8a4234e)
+
 ## Project Outcomes:
 
 📑 [Project Report](https://github.com/NickTimosh/KPMG_project/blob/main/Deliverables/kpmg_Report_draft.pdf) -> Reflects the whole data analysis process and corresponding insights with charts and tables.
