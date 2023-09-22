@@ -40,7 +40,6 @@ RFM Analysis with seaborn heatmaps:
 ![fen](https://github.com/NickTimosh/KPMG_project/assets/116592259/4e7f1d0c-d59e-4ced-aaff-4ad4615bbb6c)
 
 Cohort Retention with seaborn heatmaps:
-
 ![Screenshot 2023-08-11 215231](https://github.com/NickTimosh/KPMG_project/assets/116592259/708eaf1c-7e8f-4bd1-9232-5c5ff36f013b)
 
 
