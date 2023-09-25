@@ -16,7 +16,6 @@
 | Exploratory Data Analysis | ✔️ Done | Data Understanding, Data Cleaning, Data Insights|
 | RFM Analysis | ✔️ Done | RFM Segmentation Matrix, RFM Distribution |
 | Cohort Retention Analysis | ✔️ Done | Customer`s Retention heatmap |
-| Customer Segmentation | ⌛ ongoing | Segment`s definition, Insights into behaviors |
 | Time Series Analysis | ⌛ ongoing | ARIMA model, Forecasting |
 | Predict high-value customers | ⌛ ongoing | LogisticRegression, RandomForest|
 | Dashboard | ⌛ ongoing | The interactive web-app|
