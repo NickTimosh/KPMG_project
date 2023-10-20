@@ -17,9 +17,9 @@
 | RFM Analysis | ✔️ Done | RFM Segmentation Matrix, RFM Distribution |
 | Cohort Retention Analysis | ✔️ Done | Customer`s Retention heatmap |
 | Time Series Analysis | ⌛ ongoing | ARIMA model, Forecasting |
-| Predict high-value customers | ⌛ ongoing | LogisticRegression, RandomForest |
-| Dashboard | ⌛ ongoing | The interactive web-app |
-| Findings and Recommendations | ⌛ ongoing | Summary of Analysis |
+| Predict high-value customers | 📃 to do | LogisticRegression, RandomForest |
+| Dashboard | 📃 to do | The interactive web-app |
+| Findings and Recommendations | 📃 to do | Summary of Analysis |
 
 ## Project gallery:
 
