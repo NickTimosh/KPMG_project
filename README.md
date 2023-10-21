@@ -23,21 +23,21 @@
 
 ## Project gallery:
 
-Product performance: Popularity vs Profit:
+Product performance: Popularity vs Profit
 ![product performance](https://github.com/NickTimosh/KPMG_project/assets/116592259/9b7ee14a-5104-4234-a401-8fd5742c0679)
 
-Purchase Frequency: 
+Purchase Frequency 
 ![Transactions Frequency](https://github.com/NickTimosh/KPMG_project/assets/116592259/106307dd-aecf-45b4-813d-1ca21b38fc34)
 
-RFM Analysis with seaborn heatmaps:
+RFM Analysis with seaborn heatmaps
 ![fen](https://github.com/NickTimosh/KPMG_project/assets/116592259/4e7f1d0c-d59e-4ced-aaff-4ad4615bbb6c)
 
-Cohort Retention with seaborn heatmaps:
+Cohort Retention with seaborn heatmaps
 ![Screenshot 2023-08-11 215231](https://github.com/NickTimosh/KPMG_project/assets/116592259/708eaf1c-7e8f-4bd1-9232-5c5ff36f013b)
 
-EDA with PygWalker (Tableau-style UI in Python):
+EDA with PygWalker (Tableau-style UI in Python)
 ![pygwalker](https://github.com/NickTimosh/KPMG_project/assets/116592259/c51a8004-0367-4361-8d85-f043c97cbcce)
 
-Comparing Test and Training sets with SweetViz (fully self-contained HTML application):
+Comparing Test and Training sets with SweetViz (fully self-contained HTML application)
 ![sweetviz](https://github.com/NickTimosh/KPMG_project/assets/116592259/1ee78539-8ba7-48dd-9967-88e022b01661)
 
