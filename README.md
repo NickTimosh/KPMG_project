@@ -4,9 +4,9 @@
 
 ## Project Outcomes:
 
-📑 [Project Report](https://github.com/NickTimosh/KPMG_project/blob/main/Deliverables/kpmg_Report_draft.pdf) -> Reflects the whole data analysis process and corresponding insights with charts and tables.
+📑 [Project Report](https://github.com/NickTimosh/KPMG_project/blob/main/Deliverables/kpmg_Report_draft.pdf) --> Reflects the whole data analysis process and corresponding insights with charts and tables.
 
-💻 [Project Notebook](https://github.com/NickTimosh/KPMG_project/tree/main/Notebook) -> You are more than welcomed to explore code and visuals. 
+💻 [Project Notebook](https://github.com/NickTimosh/KPMG_project/tree/main/Notebook) --> You are more than welcomed to explore code and visuals. 
 
 ## Project progress:
 
