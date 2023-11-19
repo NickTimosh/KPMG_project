@@ -23,7 +23,7 @@
 
 ## Project gallery:
 
-Product performance: Popularity vs Profit
+Product performance: Popularity vs Profit:
 ![product performance](https://github.com/NickTimosh/KPMG_project/assets/116592259/9b7ee14a-5104-4234-a401-8fd5742c0679)
 
 Purchase Frequency 
