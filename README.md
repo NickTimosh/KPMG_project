@@ -1,5 +1,8 @@
 # KPMG Data Analysis Report
 
+![kpmg1-660x330](https://github.com/NickTimosh/KPMG_project/assets/116592259/b3f9ef9f-5836-40b4-93c6-11c448e4143f)
+
+
 ✨ Welcome! This project is ongoing as I add more and more steps towards data-driven insights. This also presents an excellent chance to explore novel and intriguing Python libraries. Stay tuned for updates and enhancements! For any inquiries or collaboration opportunities, feel free to reach out. Enjoy exploring the project!!
 
 ## Project Outcomes:
